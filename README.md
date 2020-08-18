@@ -15,7 +15,7 @@ Fix:
 
 `wget https://github.com/HypeMonsterHacks/WSL1-Kali/raw/master/libc6_2.31-0ubuntu8%2Blp1871129_1_amd64.deb`
 
-`dpkg --install libc6_2.310ubuntu8+lp1871129~1_amd64.deb`  
+`dpkg --install libc6_2.31-0ubuntu8+lp1871129_1_amd64.deb`
 
 `apt-mark hold libc6`  
 
